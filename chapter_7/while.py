@@ -1,8 +1,8 @@
-number = 23
+number = 10
 running = True
 
 while running:
-    guess = int(raw_input('Enter an integer: '))
+    guess = int(raw_input('Hi Miraya. Enter an number: '))
 
     if guess == number:
         print 'Congratulations, you guess it. \n(but you do not win any prizes!)'
