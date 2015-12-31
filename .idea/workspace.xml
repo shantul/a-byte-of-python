@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8402228-4e98-4f64-b7e7-f176efa870d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_9/module_using_from_import.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_9/module_using_name.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_9/mymodule.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_9/mymodule_demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter_7/while.py" afterPath="$PROJECT_DIR$/chapter_7/while.py" />
-    </list>
+    <list default="true" id="c8402228-4e98-4f64-b7e7-f176efa870d3" name="Default" comment="" />
     <ignored path="a-byte-of-python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,21 +21,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mymodule.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_9/mymodule.py">
+      <file leaf-file-name="ds_using_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/ds_using_list.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mymodule_demo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_9/mymodule_demo.py">
+      <file leaf-file-name="ds_using_tuple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/ds_using_tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15644172">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ds_using_dict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/ds_using_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ds_seq.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/ds_seq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ds_set.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/ds_set.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ds_reference.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/ds_reference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ds_str_methods.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_10/ds_str_methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.78220856">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,6 +127,13 @@
         <option value="$PROJECT_DIR$/chapter_7/while.py" />
         <option value="$PROJECT_DIR$/chapter_9/mymodule.py" />
         <option value="$PROJECT_DIR$/chapter_9/mymodule_demo.py" />
+        <option value="$PROJECT_DIR$/chapter_10/ds_using_list.py" />
+        <option value="$PROJECT_DIR$/chapter_10/ds_using_tuple.py" />
+        <option value="$PROJECT_DIR$/chapter_10/ds_using_dict.py" />
+        <option value="$PROJECT_DIR$/chapter_10/ds_seq.py" />
+        <option value="$PROJECT_DIR$/chapter_10/ds_set.py" />
+        <option value="$PROJECT_DIR$/chapter_10/ds_reference.py" />
+        <option value="$PROJECT_DIR$/chapter_10/ds_str_methods.py" />
       </list>
     </option>
   </component>
@@ -147,35 +196,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter_9" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a-byte-of-python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a-byte-of-python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter_7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a-byte-of-python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a-byte-of-python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter_5" />
+              <option name="myItemId" value="chapter_10" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -195,88 +216,88 @@
       <recent name="$PROJECT_DIR$/chapter-4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mymodule_demo">
-    <configuration default="false" name="module_using_from_import" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ds_str_methods">
+    <configuration default="false" name="ds_using_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="a-byte-of-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_9/module_using_from_import.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/ds_using_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="module_using_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ds_seq" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="a-byte-of-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_9/module_using_name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/ds_seq.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ds_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="a-byte-of-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_7/while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/ds_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="mymodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ds_reference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="a-byte-of-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_9/mymodule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/ds_reference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="mymodule_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ds_str_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="a-byte-of-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_9/mymodule_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/ds_str_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -404,19 +425,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.module_using_from_import" />
-      <item index="1" class="java.lang.String" itemvalue="Python.module_using_name" />
-      <item index="2" class="java.lang.String" itemvalue="Python.while" />
-      <item index="3" class="java.lang.String" itemvalue="Python.mymodule" />
-      <item index="4" class="java.lang.String" itemvalue="Python.mymodule_demo" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ds_using_dict" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ds_seq" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ds_set" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ds_reference" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ds_str_methods" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mymodule_demo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.mymodule" />
-        <item index="2" class="java.lang.String" itemvalue="Python.while" />
-        <item index="3" class="java.lang.String" itemvalue="Python.module_using_from_import" />
-        <item index="4" class="java.lang.String" itemvalue="Python.module_using_name" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ds_str_methods" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ds_reference" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ds_set" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ds_seq" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ds_using_dict" />
       </list>
     </recent_temporary>
   </component>
@@ -618,6 +639,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15644172">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/ds_using_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/ds_using_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/ds_using_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/ds_seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/ds_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/ds_reference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/ds_str_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78220856">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
